@@ -1,0 +1,42 @@
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Business.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Business.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\EntityFramework.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.dll.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.dll.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\EntityFramework.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.csprojAssemblyReference.cache
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.csproj.CopyComplete
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Business.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Business.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\EntityFramework.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.dll.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.dll.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\EntityFramework.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.csprojAssemblyReference.cache
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.csproj.CopyComplete
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Business.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Business.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\EntityFramework.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.DataAccess.dll.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\LeagueCreation.Entities.dll.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\bin\Debug\EntityFramework.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.csprojAssemblyReference.cache
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.csproj.CopyComplete
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.Business\obj\Debug\LeagueCreation.Business.pdb

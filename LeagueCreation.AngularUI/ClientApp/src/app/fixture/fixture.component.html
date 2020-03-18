@@ -1,0 +1,49 @@
+
+<span id="spanId"></span>
+
+<div class="row">
+  <div class="col-md-8">
+    <table class="table table-dark table-striped">
+      <thead>
+        <tr>
+          <th>Takım1</th>
+          <th>Skor</th>
+          <th>Takım2</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr *ngFor="let item of fixtureList; let i = index">
+
+          <td hidden> <input type="hidden" id="weekId" value=" {{ item.Week }} " /> </td>
+          <td>{{item.Home}}</td>
+          <td>
+            <input #input type="number" min="0" value="{{item.HomeScore}}" class="form-control form-control-sm testClass" style="width:50px; display:inline-flex;" />
+            -
+            <input #input2 type="number" min="0" value="{{item.AwayScore}}" class="form-control form-control-sm" style="width:50px; display:inline-flex;" />
+          </td>
+          <td>{{item.Away}}</td>
+          <td><button (click)="inputValue(item.Id,input.value,input2.value,item.HomeId,item.AwayId,item.PointHome,item.PointAway)">Maçı Bitir</button></td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+
+  <div class="col-md-4">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">Takım İsmi</th>
+          <th scope="col">Puan</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of teamPointList ; let i = index">
+          <td> {{ item.Name }} </td>
+          <td> {{ item.Point }} </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

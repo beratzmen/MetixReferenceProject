@@ -1,0 +1,46 @@
+
+
+<div class="row">
+
+  <div class="col-md-5">
+    <div class="form-group">
+      <label>Takım İsmi</label>
+      <input #txtTeamName type="text" class="form-control" placeholder="Takım ismi girin" required>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <button (click)="PostAdd(txtTeamName)" type="button" class="btn btn-outline-primary">KAYDET</button>
+        <button (click)="GetAll()" type="button" class="btn btn-outline-success">TAKIMLARI LİSTELE</button>
+        <button *ngIf="teamList?.length > 0 && teamList?.length % 2 == 0 && scoreCheck ==false " type="button" class="btn btn-outline-info" (click)="CreateFixture(teamList)">FİKSTÜR OLUŞTUR</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-7">
+    <label>Takım Listesi</label>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>TAKIM İSMİ</th>
+          <th>TAKIM PUANI</th>
+          <th>TAKIM SİL</th>
+          <th>TAKIM GÜNCELLE</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of teamList">
+          <td> {{item.Name}} </td>
+          <td> {{item.Point}} </td>
+          <td>
+            <button (click)="Remove(item.Id)" type="button" class="btn btn-danger">SİL</button>
+          </td>
+          <td>
+            <button (click)="PutUpdate(item.Id,txtTeamName)" type="button" class="btn btn-warning">GÜNCELLE</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>

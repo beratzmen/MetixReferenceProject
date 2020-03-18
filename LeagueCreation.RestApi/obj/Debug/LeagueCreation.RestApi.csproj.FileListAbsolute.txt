@@ -1,0 +1,234 @@
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.dll.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.exe
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.exe.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.rsp
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.exe
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.exe.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.rsp
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.AppContext.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Console.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.exe
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.exe.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.rsp
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.SqlServer.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Business.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Newtonsoft.Json.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Net.Http.Formatting.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.WebHost.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Business.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.dll.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.dll.config
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.SqlServer.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Newtonsoft.Json.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Net.Http.Formatting.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.WebHost.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.csprojAssemblyReference.cache
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.csproj.CopyComplete
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.pdb
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Cors.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.Cors.dll
+C:\Users\bzmen\Desktop\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.Cors.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.dll.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.exe
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.exe.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.rsp
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.exe
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.exe.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.rsp
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.AppContext.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Console.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.exe
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.exe.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.rsp
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.SqlServer.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Business.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Newtonsoft.Json.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Net.Http.Formatting.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Cors.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.Cors.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.WebHost.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Business.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.dll.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.pdb
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.dll.config
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.SqlServer.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.Cors.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Newtonsoft.Json.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Net.Http.Formatting.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.WebHost.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.csprojAssemblyReference.cache
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.csproj.CopyComplete
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.dll
+C:\Users\act_m\Desktop\metixLig (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.dll.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.RestApi.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.exe
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.exe.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csc.rsp
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.exe
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.exe.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\csi.rsp
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.AppContext.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Console.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.exe
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.exe.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\vbc.rsp
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.SqlServer.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Business.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Newtonsoft.Json.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Net.Http.Formatting.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Cors.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.Cors.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.WebHost.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Business.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.DataAccess.dll.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.pdb
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\LeagueCreation.Entities.dll.config
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\EntityFramework.SqlServer.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.Cors.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Newtonsoft.Json.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Net.Http.Formatting.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\System.Web.Http.WebHost.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.csprojAssemblyReference.cache
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.csproj.CopyComplete
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.dll
+C:\Users\bzmen\Downloads\metixLig_ACT (1)\metixLig\LeagueCreation\LeagueCreation.RestApi\obj\Debug\LeagueCreation.RestApi.pdb
